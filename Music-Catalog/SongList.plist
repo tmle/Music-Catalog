@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Gặp Mẹ Trong Mơ</string>
+		<key>2ndLangChapTitle</key>
+		<string>Nhạc ngoại quốc - Lời Việt</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Anh Sẽ Về</string>
+		<key>2ndLangChapTitle</key>
+		<string>Kỳ Phương</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Thôi! Người Ở Lại Em Đi</string>
+		<key>2ndLangChapTitle</key>
+		<string>Huỳnh Nhật Tân, ft. Ngọc Thúy</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Cho Người Tình Xa</string>
+		<key>2ndLangChapTitle</key>
+		<string>Kỳ Phương</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Tình Đời Nghệ Sĩ</string>
+		<key>2ndLangChapTitle</key>
+		<string>Nguyễn Ngọc Thạch</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Lời Cuối Cho Cuộc Tình</string>
+		<key>2ndLangChapTitle</key>
+		<string>Nhạc ngoại - Lời Việt, ft. Kim Anh</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Tình Yêu Xin Đừng Đến</string>
+		<key>2ndLangChapTitle</key>
+		<string>Nhạc ngoại quốc - Huỳnh Nhật Tân</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Nói Với Tôi Một Lời</string>
+		<key>2ndLangChapTitle</key>
+		<string>Diệu Hương</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Một Mai Em Đi</string>
+		<key>2ndLangChapTitle</key>
+		<string>Trường Sa</string>
+	</dict>
+	<dict>
+		<key>engChapTitle</key>
+		<string>Ngựa Ô Thương Nhớ</string>
+		<key>2ndLangChapTitle</key>
+		<string>Trần Tiến</string>
+	</dict>
+</array>
+</plist>

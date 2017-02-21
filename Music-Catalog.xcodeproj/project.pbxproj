@@ -12,7 +12,17 @@
 		3295BBB11E5CB1940050D7BA /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3295BBB01E5CB1940050D7BA /* ViewController.m */; };
 		3295BBB41E5CB1950050D7BA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBB21E5CB1950050D7BA /* Main.storyboard */; };
 		3295BBB61E5CB1960050D7BA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBB51E5CB1960050D7BA /* Assets.xcassets */; };
-		3295BBB91E5CB1970050D7BA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBB71E5CB1970050D7BA /* LaunchScreen.storyboard */; };
+		3295BBC41E5CB2FD0050D7BA /* NTD-ThoiNguoiOLaiEmDi-320x568.png in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBC11E5CB2FD0050D7BA /* NTD-ThoiNguoiOLaiEmDi-320x568.png */; };
+		3295BBC51E5CB2FD0050D7BA /* NTD-TNOLED-CD-44x44.png in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBC21E5CB2FD0050D7BA /* NTD-TNOLED-CD-44x44.png */; };
+		3295BBC61E5CB2FD0050D7BA /* NTD-sample01.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBC31E5CB2FD0050D7BA /* NTD-sample01.jpg */; };
+		3295BBC91E5CB3130050D7BA /* sample01.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBC81E5CB3130050D7BA /* sample01.mp3 */; };
+		3295BBCE1E5CB32D0050D7BA /* home-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBCB1E5CB32D0050D7BA /* home-32.png */; };
+		3295BBCF1E5CB32D0050D7BA /* reverse-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBCC1E5CB32D0050D7BA /* reverse-32.png */; };
+		3295BBD01E5CB32D0050D7BA /* forward-32.png in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBCD1E5CB32D0050D7BA /* forward-32.png */; };
+		3295BBD61E5CB34A0050D7BA /* PlaySongViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3295BBD31E5CB34A0050D7BA /* PlaySongViewController.m */; };
+		3295BBD71E5CB34A0050D7BA /* SongListTableViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 3295BBD51E5CB34A0050D7BA /* SongListTableViewController.m */; };
+		3295BBD91E5CB5160050D7BA /* SongList.plist in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBD81E5CB5160050D7BA /* SongList.plist */; };
+		3295BBDB1E5CB5D20050D7BA /* Launch Screen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 3295BBDA1E5CB5D20050D7BA /* Launch Screen.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,8 +34,20 @@
 		3295BBB01E5CB1940050D7BA /* ViewController.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
 		3295BBB31E5CB1950050D7BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		3295BBB51E5CB1960050D7BA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		3295BBB81E5CB1970050D7BA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3295BBBA1E5CB1990050D7BA /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3295BBC11E5CB2FD0050D7BA /* NTD-ThoiNguoiOLaiEmDi-320x568.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NTD-ThoiNguoiOLaiEmDi-320x568.png"; sourceTree = "<group>"; };
+		3295BBC21E5CB2FD0050D7BA /* NTD-TNOLED-CD-44x44.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "NTD-TNOLED-CD-44x44.png"; sourceTree = "<group>"; };
+		3295BBC31E5CB2FD0050D7BA /* NTD-sample01.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = "NTD-sample01.jpg"; sourceTree = "<group>"; };
+		3295BBC81E5CB3130050D7BA /* sample01.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = sample01.mp3; sourceTree = "<group>"; };
+		3295BBCB1E5CB32D0050D7BA /* home-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "home-32.png"; sourceTree = "<group>"; };
+		3295BBCC1E5CB32D0050D7BA /* reverse-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "reverse-32.png"; sourceTree = "<group>"; };
+		3295BBCD1E5CB32D0050D7BA /* forward-32.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "forward-32.png"; sourceTree = "<group>"; };
+		3295BBD21E5CB34A0050D7BA /* PlaySongViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = PlaySongViewController.h; sourceTree = "<group>"; };
+		3295BBD31E5CB34A0050D7BA /* PlaySongViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = PlaySongViewController.m; sourceTree = "<group>"; };
+		3295BBD41E5CB34A0050D7BA /* SongListTableViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SongListTableViewController.h; sourceTree = "<group>"; };
+		3295BBD51E5CB34A0050D7BA /* SongListTableViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = SongListTableViewController.m; sourceTree = "<group>"; };
+		3295BBD81E5CB5160050D7BA /* SongList.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; path = SongList.plist; sourceTree = "<group>"; };
+		3295BBDA1E5CB5D20050D7BA /* Launch Screen.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = "Launch Screen.xib"; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -58,13 +80,17 @@
 		3295BBA81E5CB1920050D7BA /* Music-Catalog */ = {
 			isa = PBXGroup;
 			children = (
+				3295BBD11E5CB33A0050D7BA /* Controllers */,
+				3295BBCA1E5CB31D0050D7BA /* Music Icons */,
+				3295BBC71E5CB3090050D7BA /* Songs */,
+				3295BBC01E5CB2EE0050D7BA /* Images */,
 				3295BBAC1E5CB1930050D7BA /* AppDelegate.h */,
 				3295BBAD1E5CB1930050D7BA /* AppDelegate.m */,
 				3295BBAF1E5CB1930050D7BA /* ViewController.h */,
 				3295BBB01E5CB1940050D7BA /* ViewController.m */,
 				3295BBB21E5CB1950050D7BA /* Main.storyboard */,
+				3295BBDA1E5CB5D20050D7BA /* Launch Screen.xib */,
 				3295BBB51E5CB1960050D7BA /* Assets.xcassets */,
-				3295BBB71E5CB1970050D7BA /* LaunchScreen.storyboard */,
 				3295BBBA1E5CB1990050D7BA /* Info.plist */,
 				3295BBA91E5CB1920050D7BA /* Supporting Files */,
 			);
@@ -74,9 +100,49 @@
 		3295BBA91E5CB1920050D7BA /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				3295BBD81E5CB5160050D7BA /* SongList.plist */,
 				3295BBAA1E5CB1920050D7BA /* main.m */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		3295BBC01E5CB2EE0050D7BA /* Images */ = {
+			isa = PBXGroup;
+			children = (
+				3295BBC11E5CB2FD0050D7BA /* NTD-ThoiNguoiOLaiEmDi-320x568.png */,
+				3295BBC21E5CB2FD0050D7BA /* NTD-TNOLED-CD-44x44.png */,
+				3295BBC31E5CB2FD0050D7BA /* NTD-sample01.jpg */,
+			);
+			name = Images;
+			sourceTree = "<group>";
+		};
+		3295BBC71E5CB3090050D7BA /* Songs */ = {
+			isa = PBXGroup;
+			children = (
+				3295BBC81E5CB3130050D7BA /* sample01.mp3 */,
+			);
+			name = Songs;
+			sourceTree = "<group>";
+		};
+		3295BBCA1E5CB31D0050D7BA /* Music Icons */ = {
+			isa = PBXGroup;
+			children = (
+				3295BBCB1E5CB32D0050D7BA /* home-32.png */,
+				3295BBCC1E5CB32D0050D7BA /* reverse-32.png */,
+				3295BBCD1E5CB32D0050D7BA /* forward-32.png */,
+			);
+			name = "Music Icons";
+			sourceTree = "<group>";
+		};
+		3295BBD11E5CB33A0050D7BA /* Controllers */ = {
+			isa = PBXGroup;
+			children = (
+				3295BBD21E5CB34A0050D7BA /* PlaySongViewController.h */,
+				3295BBD31E5CB34A0050D7BA /* PlaySongViewController.m */,
+				3295BBD41E5CB34A0050D7BA /* SongListTableViewController.h */,
+				3295BBD51E5CB34A0050D7BA /* SongListTableViewController.m */,
+			);
+			name = Controllers;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -138,9 +204,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				3295BBB91E5CB1970050D7BA /* LaunchScreen.storyboard in Resources */,
+				3295BBD91E5CB5160050D7BA /* SongList.plist in Resources */,
+				3295BBCF1E5CB32D0050D7BA /* reverse-32.png in Resources */,
+				3295BBCE1E5CB32D0050D7BA /* home-32.png in Resources */,
 				3295BBB61E5CB1960050D7BA /* Assets.xcassets in Resources */,
+				3295BBD01E5CB32D0050D7BA /* forward-32.png in Resources */,
+				3295BBDB1E5CB5D20050D7BA /* Launch Screen.xib in Resources */,
+				3295BBC41E5CB2FD0050D7BA /* NTD-ThoiNguoiOLaiEmDi-320x568.png in Resources */,
+				3295BBC61E5CB2FD0050D7BA /* NTD-sample01.jpg in Resources */,
 				3295BBB41E5CB1950050D7BA /* Main.storyboard in Resources */,
+				3295BBC91E5CB3130050D7BA /* sample01.mp3 in Resources */,
+				3295BBC51E5CB2FD0050D7BA /* NTD-TNOLED-CD-44x44.png in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -154,6 +228,8 @@
 				3295BBB11E5CB1940050D7BA /* ViewController.m in Sources */,
 				3295BBAE1E5CB1930050D7BA /* AppDelegate.m in Sources */,
 				3295BBAB1E5CB1920050D7BA /* main.m in Sources */,
+				3295BBD61E5CB34A0050D7BA /* PlaySongViewController.m in Sources */,
+				3295BBD71E5CB34A0050D7BA /* SongListTableViewController.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -166,14 +242,6 @@
 				3295BBB31E5CB1950050D7BA /* Base */,
 			);
 			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		3295BBB71E5CB1970050D7BA /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				3295BBB81E5CB1970050D7BA /* Base */,
-			);
-			name = LaunchScreen.storyboard;
 			sourceTree = "<group>";
 		};
 /* End PBXVariantGroup section */
@@ -273,9 +341,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8KD2N297A7;
 				INFOPLIST_FILE = "Music-Catalog/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thinhmle.Music-Catalog";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Debug;
 		};
@@ -285,9 +355,11 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				DEVELOPMENT_TEAM = 8KD2N297A7;
 				INFOPLIST_FILE = "Music-Catalog/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 10.2;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.thinhmle.Music-Catalog";
 				PRODUCT_NAME = "$(TARGET_NAME)";
+				TARGETED_DEVICE_FAMILY = "1,2";
 			};
 			name = Release;
 		};
